@@ -98,6 +98,7 @@ Landscaping With PHP Tools
 * [Drupal](http://drupal.org)
 * [PHP-Nuke](http://www.phpnuke.org/)
 * [Symphony](http://www.getsymphony.com/)
+* [Symfony CMF](http://cmf.symfony.com/) (Content Management Framework)
 
 ### Wiki
 
