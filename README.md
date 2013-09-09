@@ -34,13 +34,12 @@ Landscaping With PHP Tools
 * [PHP Code Editor](http://edit.orgapage.de/)
 * [ShiftEdit](https://shiftedit.net/)
 * [Koding](https://koding.com)
-* 
+* [Ideone](http://ideone.com/)
 
 ### Online PHP Sandbox
 
 * [WriteCodeOnline PHP](http://writecodeonline.com/php/)
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
-* [Ideone](http://ideone.com/)
 
 -----
 
