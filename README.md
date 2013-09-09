@@ -14,6 +14,7 @@ Landscaping With PHP Tools
 * [NotePad++](http://notepad-plus-plus.org/)
 * [UltraEdit](http://www.ultraedit.com/)
 * [Sublime-Text](http://www.sublimetext.com/)
+* [Vim](http://www.vim.org/)
 
 <hr id="system-readmore" />
 
@@ -33,12 +34,13 @@ Landscaping With PHP Tools
 * [PHP Code Editor](http://edit.orgapage.de/)
 * [ShiftEdit](https://shiftedit.net/)
 * [Koding](https://koding.com)
+* 
 
 ### Online PHP Sandbox
 
 * [WriteCodeOnline PHP](http://writecodeonline.com/php/)
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
-* 
+* [Ideone](http://ideone.com/)
 
 -----
 
