@@ -31,7 +31,7 @@ Landscaping With PHP Tools
 * [Cloud9 IDE](https://c9.io/)
 * [Amy Editor](http://www.amyeditor.com/)
 * [PHP Code Editor](http://edit.orgapage.de/)
-* [ShidtEdit](https://shiftedit.net/)
+* [ShiftEdit](https://shiftedit.net/)
 * [Koding](https://koding.com)
 
 ### Online PHP Sandbox
