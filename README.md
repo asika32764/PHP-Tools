@@ -14,7 +14,6 @@ Landscaping With PHP Tools
 * [NotePad++](http://notepad-plus-plus.org/)
 * [UltraEdit](http://www.ultraedit.com/)
 * [Sublime-Text](http://www.sublimetext.com/)
-* [Vim](http://www.vim.org/)
 
 <hr id="system-readmore" />
 
@@ -34,12 +33,12 @@ Landscaping With PHP Tools
 * [PHP Code Editor](http://edit.orgapage.de/)
 * [ShiftEdit](https://shiftedit.net/)
 * [Koding](https://koding.com)
-* [Ideone](http://ideone.com/)
 
 ### Online PHP Sandbox
 
 * [WriteCodeOnline PHP](http://writecodeonline.com/php/)
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
+* 
 
 -----
 
@@ -73,7 +72,7 @@ Landscaping With PHP Tools
 * [Joomla Framework](https://github.com/joomla/joomla-framework) // Developing
 * [CodeIgniter](http://ellislab.com/codeigniter)
 
-### Lightweight
+### Lightwight
 
 * [Slim](http://www.slimframework.com/)
 * [Silex](http://silex.sensiolabs.org/)
@@ -81,7 +80,6 @@ Landscaping With PHP Tools
 * [Kohana](http://kohanaframework.org/)
 * [Akelos](https://github.com/akelos)
 * [FuelPHP](http://fuelphp.com/)
-* [Flight](http://flightphp.com/)
 
 ### Extension Manager
 
@@ -122,7 +120,6 @@ Landscaping With PHP Tools
 * [Doctrine](http://www.doctrine-project.org/)
 * [RedBean](http://redbeanphp.com/)
 * [Propel](http://propelorm.org/)
-* [FluentPDO](http://fluentpdo.com/)
 
 ### Assets Manager
 
@@ -186,6 +183,10 @@ Landscaping With PHP Tools
 ### Code Generator
 
 * [GenPHP](https://github.com/c9s/GenPHP)
+ 
+### Image
+
+* [JpGraph](http://jpgraph.net/)
 
 -----
 
