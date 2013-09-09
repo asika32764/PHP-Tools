@@ -73,7 +73,7 @@ Landscaping With PHP Tools
 * [Joomla Framework](https://github.com/joomla/joomla-framework) // Developing
 * [CodeIgniter](http://ellislab.com/codeigniter)
 
-### Lightwight
+### Lightweight
 
 * [Slim](http://www.slimframework.com/)
 * [Silex](http://silex.sensiolabs.org/)
@@ -81,6 +81,7 @@ Landscaping With PHP Tools
 * [Kohana](http://kohanaframework.org/)
 * [Akelos](https://github.com/akelos)
 * [FuelPHP](http://fuelphp.com/)
+* [Flight](http://flightphp.com/)
 
 ### Extension Manager
 
@@ -121,6 +122,7 @@ Landscaping With PHP Tools
 * [Doctrine](http://www.doctrine-project.org/)
 * [RedBean](http://redbeanphp.com/)
 * [Propel](http://propelorm.org/)
+* [FluentPDO](http://fluentpdo.com/)
 
 ### Assets Manager
 
