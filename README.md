@@ -131,6 +131,7 @@ Landscaping With PHP Tools
 * [Pipe](https://github.com/CHH/pipe)
 * [Munee](https://github.com/meenie/munee)
 * [JShink](https://github.com/tedivm/JShrink)
+* [LESS PHP](http://leafo.net/lessphp/)
 
 ### Debug / Profiler / Error Report
 
