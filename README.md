@@ -44,6 +44,30 @@ Landscaping With PHP Tools
 
 -----
 
+## Cloud Hosting
+
+### IaaS
+
+* [Amazon Web Service](http://aws.amazon.com/)
+* [Windwos Azure VM](http://www.windowsazure.com/)
+
+### PaaS
+
+* [AppFog](https://www.appfog.com/)
+* [Heroku](http://www.millwoodonline.co.uk/blog/deploy-php-to-heroku)
+* [Windows Azure Website](http://www.windowsazure.com/)
+* [CloudControl](https://www.cloudcontrol.com/)
+* [PHPCloud](http://www.phpcloud.com/) - by Zend
+* [CloudAccess](http://www.cloudaccess.net/) - Only for Joomla!CMS
+* [Acquia Cloud](https://www.acquia.com/) - For Drupal CMS
+* [Tribeca Cloud](https://tribecacloud.com) - For many CMSes
+
+### VPS
+
+* [Linode](http://linode.com/)
+
+-----
+
 ## Project Management
 
 ### Continuous Integration
