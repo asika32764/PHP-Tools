@@ -41,6 +41,7 @@ Landscaping With PHP Tools
 * [WriteCodeOnline PHP](http://writecodeonline.com/php/)
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
 * [3v4l.org](http://3v4l.org/)
+* [Web GURU](http://web.guru99.com/demo-editor-php/)
 
 -----
 
@@ -246,7 +247,7 @@ Auto deploy applications.
 ### Code Generator
 
 * [GenPHP](https://github.com/c9s/GenPHP)
- 
+
 ### Image
 
 * [JpGraph](http://jpgraph.net/)
