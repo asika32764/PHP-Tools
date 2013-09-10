@@ -274,7 +274,7 @@ Auto deploy applications.
 
 ### Guide
 
-* [PHP FIG (pas-0, psr-1, psr-2 etc.)](http://www.php-fig.org/)
+* [PHP FIG (psr-x)](http://www.php-fig.org/)
 * [Pear Coding Standard](http://pear.php.net/manual/en/standards.php)
 
 ### Helper
