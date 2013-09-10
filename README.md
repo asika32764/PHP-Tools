@@ -136,11 +136,27 @@ Landscaping With PHP Tools
 * [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki)
 * [DokuWiki](https://www.dokuwiki.org/)
 
+### Forum
+
+* [phpBB](https://www.phpbb.com/)
+* [Invision Power Board (IP Board)](http://www.invisionpower.com/apps/board/)
+* [vBullectin](http://www.vbulletin.com/)
+* [Simple Machine Forum (SMF)](http://www.simplemachines.org/)
+* [Kunena](http://www.kunena.org/) - a joomla component
+
 ### File Manager
 
 * [eXtplorer](http://extplorer.net/)
 * [AjaxPlorer](http://ajaxplorer.info/)
 * [elFinder](http://elfinder.org/)
+
+### App Store & Manager
+
+Auto deploy applications.
+
+* [Bitnami](http://bitnami.com/)
+* [AMPPS](http://www.ampps.com/)
+
 
 -----
 
