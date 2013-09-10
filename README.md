@@ -55,12 +55,13 @@ Landscaping With PHP Tools
 
 * [AppFog](https://www.appfog.com/)
 * [Heroku](http://www.millwoodonline.co.uk/blog/deploy-php-to-heroku)
+* [Google App Engine](https://appengine.google.com)
 * [Windows Azure Website](http://www.windowsazure.com/)
 * [CloudControl](https://www.cloudcontrol.com/)
 * [PHPCloud](http://www.phpcloud.com/) - by Zend
-* [CloudAccess](http://www.cloudaccess.net/) - Only for Joomla!CMS
-* [Acquia Cloud](https://www.acquia.com/) - For Drupal CMS
-* [Tribeca Cloud](https://tribecacloud.com) - For many CMSes
+* [CloudAccess](http://www.cloudaccess.net/) - for Joomla!CMS
+* [Acquia Cloud](https://www.acquia.com/) - for Drupal CMS
+* [Tribeca Cloud](https://tribecacloud.com) - for many CMSes
 
 ### VPS
 
