@@ -197,6 +197,7 @@ Auto deploy applications.
 * [PHP Profile Class](http://www.coderholic.com/php-profile-class/)
 * [Better Errors](https://github.com/charliesome/better_errors)
 * [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools)
+* [PHP Quick Profiler](http://www.particletree.com/features/php-quick-profiler/)
 
 ### API Connection
 
