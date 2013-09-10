@@ -198,6 +198,7 @@ Auto deploy applications.
 * [Better Errors](https://github.com/charliesome/better_errors)
 * [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools)
 * [PHP Quick Profiler](http://www.particletree.com/features/php-quick-profiler/)
+* [PHP Chrome Logger](http://craig.is/writing/chrome-logger)
 
 ### API Connection
 
