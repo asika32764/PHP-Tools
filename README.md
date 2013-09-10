@@ -96,18 +96,21 @@ Landscaping With PHP Tools
 * [Zend Framework](http://framework.zend.com/)
 * [Yii](http://www.yiiframework.com/)
 * [CakePHP](http://cakephp.org/)
-* [Joomla Framework](https://github.com/joomla/joomla-framework) // Developing
+* [Joomla! Platform](https://github.com/joomla/joomla-platform) / [Joomla Framework](https://github.com/joomla/joomla-framework)
 * [CodeIgniter](http://ellislab.com/codeigniter)
 
 ### Lightweight
 
-* [Slim](http://www.slimframework.com/)
-* [Silex](http://silex.sensiolabs.org/)
 * [Laravel](http://laravel.com/)
 * [Kohana](http://kohanaframework.org/)
 * [Akelos](https://github.com/akelos)
 * [FuelPHP](http://fuelphp.com/)
 * [Flight](http://flightphp.com/)
+
+### Micro
+
+* [Slim](http://www.slimframework.com/)
+* [Silex](http://silex.sensiolabs.org/)
 
 ### Extension Manager
 
