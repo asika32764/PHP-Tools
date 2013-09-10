@@ -277,3 +277,4 @@ Auto deploy applications.
 ### Helper
 
 * [PHP Coding Standards Fixer](https://github.com/fabpot/PHP-CS-Fixer)
+* [PHP Codesniffer](http://pear.php.net/package/PHP_CodeSniffer/)
