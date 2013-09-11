@@ -67,7 +67,7 @@ Landscaping With PHP Tools
 ### VPS
 
 * [Linode](http://linode.com/)
-* [DigitalOcean](https://www.digitalocean.com/) - SSD host, very fast.
+* [DigitalOcean](https://www.digitalocean.com/) - SSD host
 
 -----
 
