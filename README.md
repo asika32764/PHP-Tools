@@ -16,7 +16,7 @@ Landscaping With PHP Tools
 * [Coding Standard](#coding-standard)
 
 
------
+<hr id="system-readmore" />
 
 ## Coding Tools
 
@@ -28,8 +28,6 @@ Landscaping With PHP Tools
 * [UltraEdit](http://www.ultraedit.com/)
 * [Sublime-Text](http://www.sublimetext.com/)
 * [Vim](http://www.vim.org/)
-
-<hr id="system-readmore" />
 
 ### IDE
 
