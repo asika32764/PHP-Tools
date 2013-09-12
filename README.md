@@ -305,6 +305,7 @@ Auto deploy applications.
 
 * [PHP FIG (psr-x)](http://www.php-fig.org/)
 * [Pear Coding Standard](http://pear.php.net/manual/en/standards.php)
+* [PHP The Right Way](http://www.phptherightway.com/) - (Multi-language) A reference for PHP coding standards, tutorials around the Web 
 
 ### Helper
 
