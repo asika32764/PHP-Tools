@@ -68,7 +68,7 @@ Landscaping With PHP Tools
 ### PaaS
 
 * [AppFog](https://www.appfog.com/)
-* [Heroku](http://www.millwoodonline.co.uk/blog/deploy-php-to-heroku)
+* [Heroku](https://www.heroku.com/) - (PHP support is undocumented but based on stable Facebook partnership [link](http://net.tutsplus.com/tutorials/php/quick-tip-deploy-php-to-heroku-in-seconds/))
 * [Google App Engine](https://appengine.google.com)
 * [Windows Azure Website](http://www.windowsazure.com/)
 * [CloudControl](https://www.cloudcontrol.com/)
