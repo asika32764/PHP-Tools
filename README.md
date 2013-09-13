@@ -141,6 +141,7 @@ Landscaping With PHP Tools
 * [FuelPHP](http://fuelphp.com/)
 * [Flight](http://flightphp.com/)
 * [Alloy](http://alloyframework.org/)
+* [Nette](http://nette.org/)
 
 ### Micro
 
@@ -241,6 +242,7 @@ Auto deploy applications.
 * [Smarty](http://www.smarty.net/)
 * [Twig](http://twig.sensiolabs.org/)
 * [Mustache](http://mustache.github.io/)
+* [Latte](https://github.com/nette/latte) - a Nette framework component
 
 ### Log
 
