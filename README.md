@@ -241,7 +241,7 @@ Auto deploy applications.
 
 * [Smarty](http://www.smarty.net/)
 * [Twig](http://twig.sensiolabs.org/)
-* [Mustache](http://mustache.github.io/)
+* [Mustache](http://mustache.github.io/) - a cross-language template engine
 * [Latte](https://github.com/nette/latte) - a Nette framework component
 
 ### Log
