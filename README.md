@@ -280,9 +280,10 @@ Auto deploy applications.
 * [Boris](https://github.com/d11wtq/boris)
 * [PsySh](https://github.com/bobthecow/psysh)
 
-### Code Generator
+### Code Generator (Scaffolding)
 
 * [GenPHP](https://github.com/c9s/GenPHP)
+* [PHP MySQL CRUD Scaffold](https://github.com/tute/phpscaffold) / [Website](http://www.phpscaffold.com/)
 
 ### Image
 
