@@ -140,6 +140,7 @@ Landscaping With PHP Tools
 * [Akelos](https://github.com/akelos)
 * [FuelPHP](http://fuelphp.com/)
 * [Flight](http://flightphp.com/)
+* [Alloy](http://alloyframework.org/)
 
 ### Micro
 
