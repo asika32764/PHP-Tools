@@ -261,12 +261,23 @@ Auto deploy applications.
 * [Faker](https://github.com/fzaninotto/Faker) - Fake data generator
 * [Doctrine Data-Fixtures](https://github.com/doctrine/data-fixtures) - Fake data generator
 
-### Command Line Tool
+### Command Line
+
+#### Option Parser or Library
 
 * [php-cli-tools](https://github.com/jlogsdon/php-cli-tools)
 * [php-cli](https://github.com/thebra/php-cli)
 * [Commando](https://github.com/nategood/commando)
 * [php-CLIFramework](https://github.com/c9s/php-CLIFramework)
+* [GetOpt](https://github.com/ulrichsg/getopt-php)
+* [OptParse](https://github.com/CHH/optparse)
+* [Cron Expression](https://github.com/mtdowling/cron-expression)
+* [ShellWrap](https://github.com/MrRio/shellwrap)
+
+#### REPL (Read–eval–print loop)
+
+* [Boris](https://github.com/d11wtq/boris)
+* [PsySh](https://github.com/bobthecow/psysh)
 
 ### Code Generator
 
