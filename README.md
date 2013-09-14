@@ -132,6 +132,7 @@ Landscaping With PHP Tools
 * [CakePHP](http://cakephp.org/)
 * [Joomla! Platform](https://github.com/joomla/joomla-platform) / [Joomla Framework](https://github.com/joomla/joomla-framework)
 * [CodeIgniter](http://ellislab.com/codeigniter)
+* [Yaf](http://pecl.php.net/package/yaf)
 
 ### Lightweight
 
@@ -142,6 +143,8 @@ Landscaping With PHP Tools
 * [Flight](http://flightphp.com/)
 * [Alloy](http://alloyframework.org/)
 * [Nette](http://nette.org/)
+* [Webasyst](http://www.webasyst.com/developers/)
+* [Treb](https://github.com/EliW/treb)
 
 ### Micro
 
