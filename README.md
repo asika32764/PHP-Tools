@@ -171,6 +171,7 @@ Landscaping With PHP Tools
 * [PHP-Nuke](http://www.phpnuke.org/)
 * [Symphony](http://www.getsymphony.com/)
 * [Symfony CMF](http://cmf.symfony.com/) (Content Management Framework)
+* [Stacey](http://www.staceyapp.com/)
 
 ### Wiki
 
