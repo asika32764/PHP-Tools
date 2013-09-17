@@ -105,10 +105,11 @@ Landscaping With PHP Tools
 
 ### Continuous Integration
 
-* [Travis-CI](https://travis-ci.org/) - Auto build and test codes from Github
+* [Travis-CI](https://travis-ci.org/)
 * [PHPCI](http://www.phptesting.org/)
 * [Jenkins CI](http://jenkins-ci.org/)
 * [Drone.io](https://drone.io/)
+* [Gitlab CI](http://gitlab.org/)
 
 ### Team Communication
 
