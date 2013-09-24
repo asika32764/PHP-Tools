@@ -249,6 +249,8 @@ Auto deploy applications.
 * [Twig](http://twig.sensiolabs.org/)
 * [Mustache](http://mustache.github.io/) - a cross-language template engine
 * [Latte](https://github.com/nette/latte) - a Nette framework component
+* [Haml](http://haml.info/)
+* [Jade](https://github.com/everzet/jade.php)
 
 ### Log
 
