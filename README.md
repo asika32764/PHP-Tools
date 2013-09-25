@@ -134,7 +134,8 @@ Landscaping With PHP Tools
 * [CakePHP](http://cakephp.org/)
 * [Joomla! Platform](https://github.com/joomla/joomla-platform) / [Joomla Framework](https://github.com/joomla/joomla-framework)
 * [CodeIgniter](http://ellislab.com/codeigniter)
-* [Yaf](http://pecl.php.net/package/yaf)
+* [Yaf](http://pecl.php.net/package/yaf) - A PHP framework implemented as a C extension
+* [Phalcon](http://phalconphp.com/) - A PHP framework implemented as a C extension
 
 ### Lightweight
 
