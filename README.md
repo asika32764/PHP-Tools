@@ -214,6 +214,7 @@ Auto deploy applications.
 * [RedBean](http://redbeanphp.com/)
 * [Propel](http://propelorm.org/)
 * [FluentPDO](http://fluentpdo.com/)
+* [Eloquent ORM](http://four.laravel.com/docs/eloquent)
 
 ### Assets Manager
 
