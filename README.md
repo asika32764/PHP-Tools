@@ -287,6 +287,10 @@ Auto deploy applications.
 * [Cron Expression](https://github.com/mtdowling/cron-expression)
 * [ShellWrap](https://github.com/MrRio/shellwrap)
 
+#### Libevent, Daemon and Socket
+
+* [phpDaemon](https://github.com/kakserpom/phpdaemon)
+
 #### REPL (Read–eval–print loop)
 
 * [Boris](https://github.com/d11wtq/boris)
