@@ -110,6 +110,7 @@ Landscaping With PHP Tools
 * [Jenkins CI](http://jenkins-ci.org/)
 * [Drone.io](https://drone.io/)
 * [Gitlab CI](http://gitlab.org/)
+* [xinc](https://code.google.com/p/xinc/)
 
 ### Team Communication
 
