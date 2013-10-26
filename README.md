@@ -176,6 +176,7 @@ Landscaping With PHP Tools
 * [Symphony](http://www.getsymphony.com/)
 * [Symfony CMF](http://cmf.symfony.com/) (Content Management Framework)
 * [Stacey](http://www.staceyapp.com/)
+* [Xoops](http://xoops.org/)
 
 ### Wiki
 
