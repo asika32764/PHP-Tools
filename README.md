@@ -275,6 +275,9 @@ Auto deploy applications.
 * [PHP Codesniffer](http://pear.php.net/package/PHP_CodeSniffer/)
 * [Faker](https://github.com/fzaninotto/Faker) - Fake data generator
 * [Doctrine Data-Fixtures](https://github.com/doctrine/data-fixtures) - Fake data generator
+* [phptestr](http://perennials.github.io/phptestr/)
+* [PHP Depend](http://pdepend.org/)
+* [PHP Mess Detector](http://phpmd.org/)
 
 ### Command Line
 
