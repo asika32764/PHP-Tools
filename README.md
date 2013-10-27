@@ -110,6 +110,8 @@ Landscaping With PHP Tools
 * [Jenkins CI](http://jenkins-ci.org/)
 * [Drone.io](https://drone.io/)
 * [Gitlab CI](http://gitlab.org/)
+* [xinc](https://code.google.com/p/xinc/)
+* [phpUnderControl](http://phpundercontrol.org/)
 
 ### Team Communication
 
@@ -175,6 +177,7 @@ Landscaping With PHP Tools
 * [Symphony](http://www.getsymphony.com/)
 * [Symfony CMF](http://cmf.symfony.com/) (Content Management Framework)
 * [Stacey](http://www.staceyapp.com/)
+* [Xoops](http://xoops.org/)
 
 ### Wiki
 
@@ -273,6 +276,9 @@ Auto deploy applications.
 * [PHP Codesniffer](http://pear.php.net/package/PHP_CodeSniffer/)
 * [Faker](https://github.com/fzaninotto/Faker) - Fake data generator
 * [Doctrine Data-Fixtures](https://github.com/doctrine/data-fixtures) - Fake data generator
+* [phptestr](http://perennials.github.io/phptestr/)
+* [PHP Depend](http://pdepend.org/)
+* [PHP Mess Detector](http://phpmd.org/)
 
 ### Command Line
 
