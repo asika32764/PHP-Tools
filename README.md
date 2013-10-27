@@ -113,12 +113,17 @@ Landscaping With PHP Tools
 * [xinc](https://code.google.com/p/xinc/)
 * [phpUnderControl](http://phpundercontrol.org/)
 
+### Project Build System
+
+* [Phing](http://www.phing.info/)
+
+
 ### Team Communication
 
 * [HipChat](https://www.hipchat.com/)
 * [IRC](http://www.irc.org/)
 
-### Development Environment
+### Developing Environment
 
 * [Vagrant](http://www.vagrantup.com/)
 
