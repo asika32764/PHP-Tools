@@ -237,10 +237,10 @@ Auto deploy applications.
 
 * [whoops](http://filp.github.io/whoops/)
 * [PHP Profile Class](http://www.coderholic.com/php-profile-class/)
-* [Better Errors](https://github.com/charliesome/better_errors)
 * [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools)
 * [PHP Quick Profiler](http://www.particletree.com/features/php-quick-profiler/)
 * [PHP Chrome Logger](http://craig.is/writing/chrome-logger)
+* [PHP Error](http://phperror.net/)
 
 ### API Connection
 
