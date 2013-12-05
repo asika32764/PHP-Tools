@@ -297,6 +297,8 @@ Auto deploy applications.
 * [OptParse](https://github.com/CHH/optparse)
 * [Cron Expression](https://github.com/mtdowling/cron-expression)
 * [ShellWrap](https://github.com/MrRio/shellwrap)
+* [Symfony Console](https://github.com/symfony/Console)
+* [Cilex](http://cilex.github.io/)
 
 #### Libevent, Daemon and Socket
 
