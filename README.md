@@ -313,6 +313,7 @@ Auto deploy applications.
 
 * [GenPHP](https://github.com/c9s/GenPHP)
 * [PHP MySQL CRUD Scaffold](https://github.com/tute/phpscaffold) / [Website](http://www.phpscaffold.com/)
+* [PHP Code Generator](https://github.com/asika32764/php-code-generator)
 
 ### Image
 
