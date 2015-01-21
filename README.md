@@ -207,6 +207,7 @@ Landscaping With PHP Tools
 
 Auto deploy applications.
 
+* [Deploy4Me](https://deploy4me.com/)
 * [Bitnami](http://bitnami.com/)
 * [AMPPS](http://www.ampps.com/)
 
