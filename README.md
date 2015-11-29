@@ -28,6 +28,7 @@ Landscaping With PHP Tools
 * [UltraEdit](http://www.ultraedit.com/)
 * [Sublime-Text](http://www.sublimetext.com/)
 * [Vim](http://www.vim.org/)
+* [Atom](https://atom.io/)
 
 ### IDE
 
@@ -122,6 +123,7 @@ Landscaping With PHP Tools
 
 * [HipChat](https://www.hipchat.com/)
 * [IRC](http://www.irc.org/)
+* [Slack](https://slack.com/)
 
 ### Developing Environment
 
@@ -160,6 +162,7 @@ Landscaping With PHP Tools
 
 * [Slim](http://www.slimframework.com/)
 * [Silex](http://silex.sensiolabs.org/)
+* [Lumen](http://lumen.laravel.com/)
 
 ### Extension Manager
 
@@ -223,7 +226,7 @@ Auto deploy applications.
 * [RedBean](http://redbeanphp.com/)
 * [Propel](http://propelorm.org/)
 * [FluentPDO](http://fluentpdo.com/)
-* [Eloquent ORM](http://four.laravel.com/docs/eloquent)
+* [Eloquent ORM](http://laravel.com/docs/5.1/eloquent)
 
 ### Assets Manager
 
@@ -354,7 +357,7 @@ Auto deploy applications.
 
 * [PHP FIG (psr-x)](http://www.php-fig.org/)
 * [Pear Coding Standard](http://pear.php.net/manual/en/standards.php)
-* [PHP The Right Way](http://www.phptherightway.com/) - (Multi-language) A reference for PHP coding standards, tutorials around the Web 
+* [PHP The Right Way](http://www.phptherightway.com/) - (Multi-language) A reference for PHP coding standards, tutorials around the Web
 
 ### Helper
 
