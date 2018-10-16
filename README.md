@@ -37,6 +37,7 @@ Landscaping With PHP Tools
 * [Komodo IDE](http://www.activestate.com/komodo-ide)
 * [PHPStorm](http://www.jetbrains.com/phpstorm/)
 * [Netbeans](https://netbeans.org/)
+* [CodeLobster IDE](http://www.codelobster.com/)
 
 ### Online REPL's/editors/IDE's
 
